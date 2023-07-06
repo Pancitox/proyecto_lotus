@@ -1,0 +1,1201 @@
+fileFormatVersion: 2
+guid: f447c106637cc76459ae91b4b60b244b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 352
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37b856327d3a944a8b1c449e1a2cf21
+      internalID: -291372667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 353
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40da276ca9d507d488e4b517a86bbcd8
+      internalID: -1158168500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 353
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e21ae230b9692a43be0503a33f0e82f
+      internalID: 552771633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 353
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e21809c32731d4d9a40c33f3184339
+      internalID: 166933567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 354
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dddc28114e0a4447aef266140d79d09
+      internalID: 400135823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 354
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23adb7c12900df24cb367c533d62ff43
+      internalID: 1479380327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle6
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 354
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fd82d419efb454d9419bc7cae4aadd
+      internalID: -556981080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 296
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02d1128d6d3c1c419d708ada66aadca
+      internalID: -1691456271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 297
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bc89610b2e462448f3eab6e6a07b98
+      internalID: 1953824072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 297
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda54fe2b871248409b81e55b4cabeff
+      internalID: -1816929511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 297
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40247c7be4fb254ea5c4c50fe306dba
+      internalID: -119487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 298
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b23a4e427763441b5b0b3cb4b1d52e
+      internalID: -1146781560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 298
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396abb5bb5819ac4996a03a292be9f3a
+      internalID: 2077660488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 297
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b02ad4e83e04a544851ee0660e566fd
+      internalID: 411072206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 241
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076dc2a613e7b2543b076e72c6ab5145
+      internalID: 811466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943ab55233b07e643982741df0678ba3
+      internalID: -1132803914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 240
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df9359b920c084419e99a5c62cf7d4c
+      internalID: -239115949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 239
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3f4180525ba084592dfc907d96cdb4
+      internalID: 2030595323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 240
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b3892e3ee61aa49b79c73726061713
+      internalID: 573303945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 241
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e934e423d547194a80f30798a09add0
+      internalID: -115343374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 241
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ad71579b536614389c5a70d8f18cdd
+      internalID: -1487224003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 178
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8c959ee19fd3e4c9c6122ce1fae6b9
+      internalID: 1452018695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 181
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5308b7cf009857f4181565973c93e806
+      internalID: -1455094129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 185
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f3da2bf5b5a764eb528d8c628b2b9d
+      internalID: -739330039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 189
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7c66dc29554e849b2662f7c4495c1c
+      internalID: 1548824125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 190
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5435bf4e77254e641bac51f739ac75e0
+      internalID: 1096940560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 186
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f05ae3634580ae4dbce9b3ed275fdf2
+      internalID: -1871491396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 182
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac4cbfbeccd3f044a58129be463685d
+      internalID: 2060511829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 125
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e58ee61a701a24cae829559c41e9ba
+      internalID: 1226908926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 125
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbd8dbc83d5af544b92e90a629fc80b
+      internalID: -707870645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 125
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0d50ce097d91e46930551bf3ecf49e
+      internalID: 1676543518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 125
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513c39d37b1deed44842af8ce5b188ef
+      internalID: 510798652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 126
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa9239b6ed59754b82008ffb539faff
+      internalID: 1445960280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 126
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa4be1b3abf6734b8bbc8a8b3f456e8
+      internalID: 1577401250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 126
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef022bc0a33e0e40ad53d34b7181df0
+      internalID: -111394510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 70
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6289b34c77fb5e4ea9034e61124332b
+      internalID: 1977359047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 70
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf52d06de902bbe429a55ab1d94674fc
+      internalID: -1086128594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 70
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d156e15372113439497f4742185327
+      internalID: 679436291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 70
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6a231f70a7c474b8ae41416a789a68
+      internalID: 1255815847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 71
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ca7ad931b1d3746a1ed3f3b4676601
+      internalID: 1389477528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 71
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666a9a93928a9a84c831413460c92b70
+      internalID: 1859482605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-2D-Pirate-Character-Sprites-01-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 71
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb888268b0d0f64da40bb61fcee63b5
+      internalID: 372590835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 13
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807ac0589bce74444aeba123d0250c89
+      internalID: 935859688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 14
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026cdc281d922cf4284aab21eed3d80d
+      internalID: 180404445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 14
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640e3f26d0a52eb40974c9daf51747fb
+      internalID: 1025310868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 13
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4962c09ccf51e4e8c54d08c7bf1050
+      internalID: 2026230845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 13
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5c999b878f11c4a8eb887a10546f1a
+      internalID: 17863169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 12
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a57e65bc58a84444a1de9500d595822
+      internalID: 1360277743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muerte6
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 10
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ec9cc0b6fada542a4af91022231dd5
+      internalID: -1857821418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_10: -119487
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_11: -1146781560
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_12: 2077660488
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_13: 411072206
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_14: 811466
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_15: -1132803914
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_16: -239115949
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_17: 2030595323
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_18: 573303945
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_19: -115343374
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_20: -1487224003
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_21: 1452018695
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_22: -1455094129
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_23: -739330039
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_24: 1548824125
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_25: 1096940560
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_26: -1871491396
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_27: 2060511829
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_28: 1226908926
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_29: -707870645
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_30: 1676543518
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_31: 510798652
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_32: 1445960280
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_33: 1577401250
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_34: -111394510
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_35: 1977359047
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_36: -1086128594
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_37: 679436291
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_38: 1255815847
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_39: 1389477528
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_40: 1859482605
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_41: 372590835
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_7: -1691456271
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_8: 1953824072
+      Free-2D-Pirate-Character-Sprites-01-removebg-preview_9: -1816929511
+      idle: -291372667
+      idle1: -1158168500
+      idle2: 552771633
+      idle3: 166933567
+      idle4: 400135823
+      idle5: 1479380327
+      idle6: -556981080
+      muerte: 935859688
+      muerte1: 180404445
+      muerte2: 1025310868
+      muerte3: 2026230845
+      muerte4: 17863169
+      muerte5: 1360277743
+      muerte6: -1857821418
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
